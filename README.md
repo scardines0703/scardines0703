@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scardines0703
-- 👀 I’m interested in continuiing my education with cloud computing 
+- 👀 I’m interested in extending my education with cloud computing 
 - 🌱 I’m currently learning Azure and AWS
 - 💞️ I’m looking to land a position that I can add to the company's growth while I continue to grow as well.
 - 📫 How to reach me scardines0703@gmail.com
